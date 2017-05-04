@@ -1,0 +1,71 @@
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\bin\Debug\MojeSudoku.exe
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\bin\Debug\MojeSudoku.pdb
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form1.resources
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Properties.Resources.resources
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Robert Skica\documents\visual studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form2.resources
+D:\!!!SUDOKU!!!\1.0\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+D:\!!!SUDOKU!!!\1.0\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.0\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.0\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\bin\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\bin\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\bin\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\bin\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.1.3 Alfa\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.1.3 Alfa\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\obj\x86\Debug\MojeSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\obj\x86\Debug\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\obj\x86\Debug\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\obj\x86\Debug\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\obj\x86\Debug\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\bin\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.2.0 Delta\MojeSudoku\bin\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\bin\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\bin\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\obj\x86\Debug\MojeSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\obj\x86\Debug\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\obj\x86\Debug\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\obj\x86\Debug\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\1.2.1 Eplison\MojeSudoku\obj\x86\Debug\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\obj\x86\Debug\MojeSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\obj\x86\Debug\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\obj\x86\Debug\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\obj\x86\Debug\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\obj\x86\Debug\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\bin\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.2.2\MojeSudoku\bin\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\bin\Debug\MojeSudoku.exe
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\bin\Debug\MojeSudoku.pdb
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.AboutBox1.resources
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Debug\MojeSudoku.AboutBox1.resources

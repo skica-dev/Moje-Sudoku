@@ -1,0 +1,28 @@
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\bin\Release\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\bin\Release\MojeSudoku.pdb
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.exe
+C:\Users\Maks\Desktop\1.0 edit\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.pdb
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.exe
+C:\Users\Maks\Desktop\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.pdb
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\bin\Release\MojeSudoku.exe
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\bin\Release\MojeSudoku.pdb
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Form1.resources
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Form2.resources
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Properties.Resources.resources
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.exe
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.pdb
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Release\MojeSudoku.exe
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Release\MojeSudoku.pdb
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\bin\Release\MojeSudoku.exe
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\bin\Release\MojeSudoku.pdb
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Form1.resources
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Form2.resources
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Release\MojeSudoku.Properties.Resources.resources
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Release\MojeSudoku.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\Moje Sudoku\MojeSudoku\obj\x86\Release\MojeSudoku.AboutBox1.resources
+C:\Users\Robert Skica\Documents\Visual Studio 2010\Projects\MojeSudoku\MojeSudoku\obj\x86\Release\MojeSudoku.AboutBox1.resources
