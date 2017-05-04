@@ -15,6 +15,7 @@ Istnieje aż 6 670 903 752 021 072 936 960 możliwych plansz sudoku!
 Program
 -------------------------
 ![moje_sudoku](https://raw.github.com/m4k5/Moje-Sudoku/master/Desc_imgs/mojesudoku.jpg "Zrzut ekranu głównego")
+
 Mój program potrafi rozwiązywać takie łamigłówki, w czasie szybszym od człowieka. Robi to dzięki specjalnemu algorytmowi. Można do niego importować pliki z sudoku (rozszerzenie .sudoku), lub wczytywać pliki tekstowe (jak ma wyglądać taki plik dowiesz się ~~w pliku pomocy, załączonej do programu~~ *edit, 4.05.2017:* poniżej).
 ![dot_sudoku](https://raw.github.com/m4k5/Moje-Sudoku/master/Desc_imgs/dotsudoku.png ".sudoku")
 
