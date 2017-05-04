@@ -4,6 +4,8 @@ Moje Sudoku
 
 Program rozwiązuje sudoku proste oraz średnio-trudne w szybkim czasie. Trudniejsze przykłady rozwiązuje trochę dłużej...
 
+![prezentacja](https://raw.github.com/m4k5/Moje-Sudoku/master/Desc_imgs/kmp2015.jpg "Ja prezentując program")
+
 Sudoku
 -------------------------
 Sudoku to łamigłówka, której celem jest wypełnienie diagramu 9 × 9 w taki sposób, aby w każdym wierszu, w każdej kolumnie i w każdym z dziewięciu pogrubionych kwadratów 3 × 3 (zwanych „blokami” lub „pod-kwadratami”) znalazło się po jednej cyfrze od 1 do 9. (przykład powyżej).
