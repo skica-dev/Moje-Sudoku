@@ -1,7 +1,7 @@
 Moje Sudoku
 ===========================
 ![prezentacja](https://raw.github.com/m4k5/Moje-Sudoku/master/Desc_imgs/kmp2015.jpg "Ja prezentując program")
-> **Marzec 2015, program przygotowany na V Dolnośląski Konkurs Małego Programisty**
+> **Marzec 2015, zwycięski program przygotowany na V Dolnośląski Konkurs Małego Programisty**
 
 Program rozwiązuje sudoku proste oraz średnio-trudne w szybkim czasie. Trudniejsze przykłady rozwiązuje trochę dłużej...
 
